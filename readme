@@ -1,5 +1,20 @@
 
 
-
+=======================================================================
 16/2/2023
+
+
+secure sign on
+https://learn.microsoft.com/en-us/aspnet/web-forms/overview/security/create-a-secure-aspnet-web-forms-app-with-user-registration-email-confirmation-and-password-reset
+
+file storage gcp
+https://stackoverflow.com/questions/53170282/how-to-access-google-cloud-storage-bucket-from-c-sharp
+
+File Upload and Multipart MIME
+https://learn.microsoft.com/en-us/aspnet/web-api/overview/advanced/sending-html-form-data-part-2
+
+Web API Samples List
+https://learn.microsoft.com/en-us/aspnet/web-api/samples-list
+
+Async Streaming in ASP.NET Web API
 https://learn.microsoft.com/en-us/archive/blogs/henrikn/async-streaming-in-asp-net-web-api
